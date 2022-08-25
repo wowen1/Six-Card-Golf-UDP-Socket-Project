@@ -1,1 +1,1 @@
-# Six-Card-Golf-UDP-Socket-Project
+# cse434SocketProject
